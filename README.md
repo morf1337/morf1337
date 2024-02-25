@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 
 ### Projects I've worked on
 | Project name | Preview | Description | Stack |
+|-|-|-|
