@@ -32,15 +32,12 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
 ![GitlabCICD](https://img.shields.io/badge/-GitlabCICD-1E7775?style=for-the-badge&logo=GitlabCICD&logoColor=6296CC)
 
-
+### Projects I've worked on  
 
 | Project name | Preview | Description |
 | :--- | :---:| ---: |
 | Left | Center | Right |
 | Left | Center | Right |
-
-
-### Projects I've worked on  
 
 | Project name | Preview | Description | Stack |  
 |-|-|-|
