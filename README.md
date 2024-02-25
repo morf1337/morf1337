@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 ![GitlabCICD](https://img.shields.io/badge/-GitlabCICD-1E7775?style=for-the-badge&logo=GitlabCICD&logoColor=6296CC)
 
 ### Projects I've worked on
-| Project name | Preview | Description | Stack |
+| Project name | Preview | Description | Stack |  
 |-|-|-|
