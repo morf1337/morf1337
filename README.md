@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Languages and tools
-![Java](https://img.shields.io/badge/Java-1E7775?style=for-the-badge&logo=java&logoColor=E9D54D)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-1E7775?style=for-the-badge&logo=Spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring_boot-1E7775?style=for-the-badge&logo=SpringBoot)
 ![Maven](https://img.shields.io/badge/-Maven-1E7775?style=for-the-badge&logo=apache&logoColor=6296CC)
@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=Bash&logoColor=6296CC)
 ![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
 ![GitlabCICD](https://img.shields.io/badge/-GitlabCICD-1E7775?style=for-the-badge&logo=GitlabCICD&logoColor=6296CC)
+
+### Projects I've worked on
+| Project name | Preview | Description | Stack |
