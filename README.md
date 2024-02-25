@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 | Left | Center | Right |
 
 | Project name | Preview | Description | Stack |  
-| --- | - | - |
+|-|-|-|-|
 | 3DViewer | <img alt="Telegram" width="300px"  align="center" src="https://github.com/morf1337/morf1337/blob/main/resources/3DViewer.png"> | DADAS | ASSAA |
