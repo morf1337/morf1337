@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 ### Projects I've worked on  
 | Project name | Preview | Description | Stack |  
 |-|-|-|-|
-| 3DViewer | <img alt="Telegram" width="350px"  align="center" src="https://github.com/morf1337/morf1337/blob/main/resources/3DViewer.png"> | DADAS | ASSAA |
-| SmartCalc | <img alt="Telegram" width="150px"  align="center" src="https://github.com/morf1337/morf1337/blob/main/resources/SmartCalc.png?raw=true"> | Implementation of a calculator with a user interface, mathematical functions and plotting graphs. Also has credit and deposit modes. | C++, Make, QT, QCustomPlot, GoogleTest |
+| 3DViewer | <img alt="Telegram" width="350px"  align="center" src="https://github.com/morf1337/morf1337/blob/main/resources/3DViewer.png"> | 🕋 3D viewer for .obj files. Program allows to display loaded model with different view options, making screenshots and recording short GIF. | C++, Qt, GoogleTest |
+| SmartCalc | <img alt="Telegram" width="150px"  align="center" src="https://github.com/morf1337/morf1337/blob/main/resources/SmartCalc.png?raw=true"> | Implementation of a calculator with a user interface, mathematical functions and plotting graphs. Also has credit and deposit modes. | C++, Qt, GoogleTest |
