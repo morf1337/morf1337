@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 | Project name | Preview | Description | Stack |  
 |-|-|-|-|
 | 3DViewer | <img alt="Telegram" width="300px"  align="center" src="https://github.com/morf1337/morf1337/blob/main/resources/3DViewer.png"> | DADAS | ASSAA |
-| SmartCalc | <img alt="Telegram" width="300px"  align="center" src="https://github.com/morf1337/morf1337/blob/main/resources/SmartCalc.png?raw=true"> | DADAS | ASSAA |
+| SmartCalc | <img alt="Telegram" width="150px"  align="center" src="https://github.com/morf1337/morf1337/blob/main/resources/SmartCalc.png?raw=true"> | Implementation of a calculator with a user interface, mathematical functions and plotting graphs. Also has credit and deposit modes. | C++, Make, QT, QCustomPlot, GoogleTest |
